@@ -3,9 +3,9 @@
 #include <time.h>
 
 /**
-* mai - Prints a random number decides if is positive,negative,or zero.
+* main - Prints a random number decides if is positive,negative,or zero.
 *
-* Return: Always 0.
+* Return: 0 when successful
 */
 int main(void)
 {
